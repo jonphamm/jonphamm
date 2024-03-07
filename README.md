@@ -18,8 +18,8 @@
 
 <h2>📄 Certifications:</h2>
 
-- [CompTIA Security+] ()
-- [Google IT Support Professional] (https://www.coursera.org/account/accomplishments/specialization/certificate/S9FR4EGGP64C)
+- [CompTIA Security+]()
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/specialization/certificate/S9FR4EGGP64C)
 
 <h2> 🤳 Connect with me:</h2>
 
