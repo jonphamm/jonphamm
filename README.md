@@ -6,6 +6,8 @@
   - [Analyzing and Remediating Vulnerabilities](https://github.com/jonphamm/VulnerabilityScanner)
 - <b>Intrusion Detection using Snort (Metasploit)</b>
   - [Snort Rules Used to Detect Malicious Activity]()
+- <b>Keylogger using Python</b>
+  - [Creating Keylogger]()
 
 <h2>📄 Certifications:</h2>
 
