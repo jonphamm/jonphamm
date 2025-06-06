@@ -1,6 +1,6 @@
 # Hi, I’m [Jon Pham](https://github.com/jonphamm).
 ## Welcome to my GitHub page!
-### Click [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view some of my Cybersecurity Projects!
+### Click [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view my Cybersecurity Portfolio and Projects!
  
 ### Azure Cloud Migration Project:
 
