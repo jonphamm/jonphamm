@@ -1,13 +1,6 @@
 # Hi, I’m [Jon Pham](https://github.com/jonphamm).
 ## Welcome to my GitHub page!
-### Cybersecurity Projects:
-
-- <b>Vulnerability Scanner using Nessus</b>
-  - [Analyzing and Remediating Vulnerabilities](https://github.com/jonphamm/VulnerabilityScanner)
-- <b>Intrusion Detection using Snort (Metasploit)</b>
-  - [Snort Rules Used to Detect Malicious Activity]()
-- <b>Keylogger using Python</b>
-  - [Creating Keylogger]()
+### Click [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view some of my Cybersecurity Projects!
  
 ### Azure Cloud Migration Project:
 
