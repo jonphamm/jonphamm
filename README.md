@@ -1,4 +1,4 @@
-# Hi, I’m [Jon Pham](https://github.com/jonphamm). 👩🏻‍💻
+# Hi, I’m [Jon Pham](https://github.com/jonphamm). 
 ## Welcome to my GitHub page!
 ### Click 👉 [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view my Cybersecurity Portfolio and Projects! 
  
