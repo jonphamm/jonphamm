@@ -2,14 +2,6 @@
 ## Welcome to my GitHub page!
 ### Click 👉 [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view my Cybersecurity Portfolio and Projects! 
  
-### Microsoft Azure Cloud Migration Project:
-
-- <b>Implementing Password Complexity</b>
-  - [Password Complexity Policy using Intune]()
-- <b>Update Rings for Windows 10 and later</b>
-  - [Deploying Update Rings Policy to Devices]()
-
-
 ### Certifications: ✅
 
 - [CompTIA Security+](https://www.credly.com/badges/2f045b81-7a04-42f2-8626-0aace0d59ec9/linked_in_profile)
