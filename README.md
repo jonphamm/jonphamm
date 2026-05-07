@@ -1,8 +1,8 @@
 # Hi, I’m [Jon Pham](https://github.com/jonphamm). 
-## Welcome to my GitHub page!
+### Welcome to my GitHub page!
 ### Click 👉 [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view my Cybersecurity Portfolio and Projects! 
  
-### Certifications: ✅
+### Certifications:
 
 - [CompTIA Security+](https://www.credly.com/badges/2f045b81-7a04-42f2-8626-0aace0d59ec9/linked_in_profile)
 - [AWS Certified Cloud Practicioner](https://www.credly.com/badges/7fdc95be-d5a0-4800-81ec-ba3ed22113dd/linked_in_profile)
