@@ -1,6 +1,6 @@
 # Hi, I’m [Jon Pham](https://github.com/jonphamm). 
 ### Welcome to my GitHub page!
-### Click 👉 [here](https://github.com/jonphamm/JonCybersecurityPortfolio) to view my Cybersecurity Portfolio and Projects! 
+### Click 👉 [here](https://github.com/jonphamm/JonPortfolio) to view my Professional Portfolio and Projects! 
  
 ### Certifications:
 
